@@ -1,0 +1,52 @@
+/***********************************/
+/*********below 1360 px**********/
+/***********************************/
+
+/* @media (max-width : 84em) {
+        .hero{
+          background-color: #b07676;
+            max-width: 120rem;
+        }
+        .heading-primary {
+            font-size: 4.4rem !important;
+          } 
+        .testimonials {
+            display: grid;
+            grid-template-columns: 1fr;
+            row-gap: 6.4rem;
+          }
+          .gallery {
+            grid-template-columns: repeat(2, 1fr);
+            
+          }
+}; */
+
+/***********************************/
+/*********below 1200 px**********/
+/***********************************/
+
+/* @media(max-width : 75em){
+  .hero{
+    background-color: #e12a2a;
+      max-width: 120rem;
+  }
+  html{
+      font-size: 5%;
+    }
+  .heading-secondary {
+      font-size: 3.6rem;
+    }
+    .heading-tertiary {
+      font-size: 2.4rem;
+    }
+    
+
+} */
+
+
+
+@media screen and (min-width: 480px) {
+  body {
+    background-color: lightgreen;
+  }
+}
